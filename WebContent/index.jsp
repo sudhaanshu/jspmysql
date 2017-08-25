@@ -9,7 +9,7 @@
 <title>display data from the table using jsp</title>
 </head>
 <body>
-<!-- <h2>Data from the table 'stu_info' of database 'student'</h2> -->
+<h2>Data from the mysql table </h2>
 <%
 try {
 /* Create string of connection url within specified format with machine
